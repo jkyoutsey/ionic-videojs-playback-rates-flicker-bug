@@ -1,0 +1,7 @@
+{
+  "name": "videojs-playback-rates-flicker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
