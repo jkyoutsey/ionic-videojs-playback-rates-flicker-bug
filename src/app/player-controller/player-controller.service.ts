@@ -21,7 +21,7 @@ export class PlayerControllerService {
       },
       sources: [
         {
-          src: 'https://player.vimeo.com/play/38042c7a-bf4b-4092-9b1f-b41206bc0dd9/hls.m3u8?s=895052965_1708097478_c416d428022cdbbb15738edf0e7ca4f9&context=Vimeo%5CController%5CApi%5CResources%5CVideoController.&oauth2_token_id=1749201174',
+          src: 'https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8',
         },
       ],
       // videojs doesn't have a type for options, so we need to cast it to any
