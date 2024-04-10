@@ -1,13 +1,17 @@
-Illustrates issue with videojs playback rate button flickering in an ionic tab application.
+Illustrates the following issues:
+
+- videojs playback rate button flickering in an ionic tab application. (This has been determined to be a bug with Ionic version)
+- Android only - video.js won't go into picture-in-picture mode
 
 ## Steps to reproduce
 
 ```bash
 npm install
-ionic serve
+npx cap sync android
+npx cap open android
 ```
 
-- Open the site localhost:8100 in Chrome.
-- Open Chrome DevTools and switch to mobile device view.
+- Open the app on a device in Android Studio.
 - Click the play button and then try to open the playback rate menu.
 - Notice that the playback rate opens the menu, but then it immediately closes.
+- Notice that the picture-in-picture button is disabled.

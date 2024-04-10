@@ -10,6 +10,7 @@
     "@angular/platform-browser": "^17.0.2",
     "@angular/platform-browser-dynamic": "^17.0.2",
     "@angular/router": "^17.0.2",
+    "@capacitor/android": "5.7.0",
     "@capacitor/app": "5.0.7",
     "@capacitor/core": "5.7.0",
     "@capacitor/haptics": "5.0.7",
@@ -52,284 +53,3020 @@
   "pathMappings": {},
   "nxJsonPlugins": [],
   "fileMap": {
-    "projectFileMap": {},
     "nonProjectFiles": [
       {
-        "file": ".browserslistrc",
-        "hash": "7979060078399394427"
+        "file": "android/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "hash": "8017832387090247082"
       },
       {
-        "file": ".editorconfig",
-        "hash": "6686520031028425313"
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
+        "hash": "8518519900873989838"
       },
       {
-        "file": ".eslintrc.json",
-        "hash": "18210278994710539225"
+        "file": "android/app/build/intermediates/merged_res/debug/values-hi_values-hi.arsc.flat",
+        "hash": "7673574031001268547"
       },
       {
-        "file": ".gitignore",
-        "hash": "91109559695469517"
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-cs/values-cs.xml",
+        "hash": "5137626018738757045"
       },
       {
-        "file": ".vscode/extensions.json",
-        "hash": "592272277800690021"
-      },
-      {
-        "file": ".vscode/settings.json",
-        "hash": "5611257266296869630"
-      },
-      {
-        "file": "angular.json",
-        "hash": "10618098369361505948"
-      },
-      {
-        "file": "capacitor.config.ts",
-        "hash": "11120010422081925042"
-      },
-      {
-        "file": "ionic.config.json",
-        "hash": "7538816204649933561"
-      },
-      {
-        "file": "ios/.gitignore",
-        "hash": "7320921161647232324"
-      },
-      {
-        "file": "ios/App/App.xcodeproj/project.pbxproj",
-        "hash": "15739853270267132621"
-      },
-      {
-        "file": "ios/App/App.xcodeproj/project.xcworkspace/contents.xcworkspacedata",
-        "hash": "1121729896424732029"
-      },
-      {
-        "file": "ios/App/App.xcworkspace/contents.xcworkspacedata",
-        "hash": "5267424201368556030"
-      },
-      {
-        "file": "ios/App/App.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
-        "hash": "12722229457274558422"
-      },
-      {
-        "file": "ios/App/App/AppDelegate.swift",
-        "hash": "10885055232217572631"
-      },
-      {
-        "file": "ios/App/App/Assets.xcassets/AppIcon.appiconset/AppIcon-512@2x.png",
-        "hash": "15912141732076635821"
-      },
-      {
-        "file": "ios/App/App/Assets.xcassets/AppIcon.appiconset/Contents.json",
-        "hash": "8592742828066986329"
-      },
-      {
-        "file": "ios/App/App/Assets.xcassets/Contents.json",
-        "hash": "5990803069847060607"
-      },
-      {
-        "file": "ios/App/App/Assets.xcassets/Splash.imageset/Contents.json",
-        "hash": "9385842541853943677"
-      },
-      {
-        "file": "ios/App/App/Assets.xcassets/Splash.imageset/splash-2732x2732-1.png",
-        "hash": "3237967808663258630"
-      },
-      {
-        "file": "ios/App/App/Assets.xcassets/Splash.imageset/splash-2732x2732-2.png",
-        "hash": "3237967808663258630"
-      },
-      {
-        "file": "ios/App/App/Assets.xcassets/Splash.imageset/splash-2732x2732.png",
-        "hash": "3237967808663258630"
-      },
-      {
-        "file": "ios/App/App/Base.lproj/LaunchScreen.storyboard",
-        "hash": "12402387980291643647"
+        "file": "android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml",
+        "hash": "16602625396055746895"
       },
       {
         "file": "ios/App/App/Base.lproj/Main.storyboard",
         "hash": "14085817207643424634"
       },
       {
-        "file": "ios/App/App/Info.plist",
-        "hash": "10252126829258412232"
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/yY_jPtU__RbTEybSysD2zeiz41c=",
+        "hash": "10358542884030451605"
       },
       {
-        "file": "ios/App/Podfile",
-        "hash": "3775140273498211306"
+        "file": "android/app/build/intermediates/compressed_assets/debug/out/assets/public/88.d7b2ac6c3f60bb88.js.jar",
+        "hash": "11496824510805817906"
       },
       {
-        "file": "karma.conf.js",
-        "hash": "13719387092471133633"
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-gl/values-gl.xml",
+        "hash": "4436940300484526975"
       },
       {
-        "file": "package-lock.json",
-        "hash": "15368300347050651430"
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/wDUp82iRt+BbiJXUGHrqFHhvlZA=",
+        "hash": "16539985729784890036"
       },
       {
-        "file": "package.json",
-        "hash": "8719192522214990863"
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/g0yWc+u+EzNbA81lTlWzS3lZtVA=",
+        "hash": "12039242143924749637"
       },
       {
-        "file": "src/app/app.component.html",
-        "hash": "12139992690072916112"
+        "file": "android/app/build/intermediates/merged_res/debug/values-sr_values-sr.arsc.flat",
+        "hash": "12632808195257690710"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-af_values-af.arsc.flat",
+        "hash": "5743326717569024584"
+      },
+      {
+        "file": "android/app/build/intermediates/sub_project_dex_archive/debug/out/559cce81921697af397ba67db27946870c7165c1c3400c7be6bc3bcbc7e16829_1.jar",
+        "hash": "7462495557436387571"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-si_values-si.arsc.flat",
+        "hash": "6644895553964199206"
+      },
+      {
+        "file": "android/app/src/main/assets/public/772.700607bf519066db.js",
+        "hash": "18121391360524492477"
       },
       {
         "file": "src/app/app.component.scss",
         "hash": "3244421341483603138"
       },
       {
-        "file": "src/app/app.component.spec.ts",
-        "hash": "1169920908592744977"
+        "file": "android/app/build/intermediates/merged_res/debug/values-it_values-it.arsc.flat",
+        "hash": "12224150338558036648"
       },
       {
-        "file": "src/app/app.component.ts",
-        "hash": "14255712435515673760"
+        "file": "ios/App/App.xcworkspace/contents.xcworkspacedata",
+        "hash": "5267424201368556030"
       },
       {
-        "file": "src/app/app.routes.ts",
-        "hash": "18257155905323275827"
+        "file": "android/app/build/intermediates/merged_res/debug/values-zh-rCN_values-zh-rCN.arsc.flat",
+        "hash": "7031036245786685248"
       },
       {
-        "file": "src/app/explore-container/explore-container.component.html",
-        "hash": "11276277544007458628"
+        "file": "android/app/build/intermediates/compressed_assets/debug/out/assets/public/cordova.js.jar",
+        "hash": "6804298705828101754"
       },
       {
-        "file": "src/app/explore-container/explore-container.component.scss",
-        "hash": "14250411118003398491"
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v22.json",
+        "hash": "10844819424426650193"
       },
       {
-        "file": "src/app/explore-container/explore-container.component.spec.ts",
-        "hash": "13935599920762330903"
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-es/values-es.xml",
+        "hash": "17741574377027044627"
       },
       {
-        "file": "src/app/explore-container/explore-container.component.ts",
-        "hash": "9627812680309577193"
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ca.json",
+        "hash": "2566929631125307240"
       },
       {
-        "file": "src/app/tab1/tab1.page.html",
-        "hash": "13207509910740934786"
+        "file": "android/app/build/intermediates/merged_res/debug/values-night-v8_values-night-v8.arsc.flat",
+        "hash": "1940041968257694068"
       },
       {
-        "file": "src/app/tab1/tab1.page.scss",
-        "hash": "3244421341483603138"
+        "file": "android/app/build/intermediates/assets/debug/public/88.d7b2ac6c3f60bb88.js",
+        "hash": "15336145768313001711"
       },
       {
-        "file": "src/app/tab1/tab1.page.spec.ts",
-        "hash": "8711086944190325156"
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-el.json",
+        "hash": "12017511777568524560"
       },
       {
-        "file": "src/app/tab1/tab1.page.ts",
-        "hash": "16961603846796942878"
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-gl.json",
+        "hash": "13718265877259282685"
       },
       {
-        "file": "src/app/tab2/tab2.page.html",
-        "hash": "13340392613393970086"
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v25/values-v25.xml",
+        "hash": "7988059719345077740"
       },
       {
-        "file": "src/app/tab2/tab2.page.scss",
-        "hash": "3244421341483603138"
+        "file": "android/app/src/main/res/drawable-land-mdpi/splash.png",
+        "hash": "13354102016025079206"
       },
       {
-        "file": "src/app/tab2/tab2.page.spec.ts",
-        "hash": "10330460238115220644"
+        "file": "android/app/build/intermediates/compressed_assets/debug/out/assets/public/polyfills.a8ae9b1c4522b100.js.jar",
+        "hash": "15941308129050673559"
       },
       {
-        "file": "src/app/tab2/tab2.page.ts",
-        "hash": "10239354924764746526"
+        "file": "android/app/build/intermediates/merged_res/debug/drawable-land-xxhdpi_splash.png.flat",
+        "hash": "4036472515977761086"
       },
       {
-        "file": "src/app/tab3/tab3.page.html",
-        "hash": "1640442279298071434"
+        "file": "android/app/build/intermediates/merged_res/debug/values-v17_values-v17.arsc.flat",
+        "hash": "6170865769778929485"
       },
       {
-        "file": "src/app/tab3/tab3.page.scss",
-        "hash": "3244421341483603138"
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/otherProjects/jar_a44dcc49e54c49c2c0969bf843f795e66ed098beb20e96df907549d8700493b2_bucket_2/graph.bin",
+        "hash": "15595562522157756655"
       },
       {
-        "file": "src/app/tab3/tab3.page.spec.ts",
-        "hash": "10649680478453371633"
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_4/graph.bin",
+        "hash": "15595562522157756655"
       },
       {
-        "file": "src/app/tab3/tab3.page.ts",
-        "hash": "5581557519451467703"
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v28/values-v28.xml",
+        "hash": "8178504083044631851"
       },
       {
-        "file": "src/app/tabs/tabs.page.html",
-        "hash": "10373639428334637925"
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-lt.json",
+        "hash": "16053815651466346315"
       },
       {
-        "file": "src/app/tabs/tabs.page.scss",
-        "hash": "4055606894390288348"
+        "file": "android/app/build/intermediates/merged_res/debug/values-ky_values-ky.arsc.flat",
+        "hash": "7570473290089286582"
       },
       {
-        "file": "src/app/tabs/tabs.page.spec.ts",
-        "hash": "10096415410414342163"
+        "file": "android/app/build/intermediates/merged_res/debug/values-eu_values-eu.arsc.flat",
+        "hash": "3226567425074693544"
       },
       {
-        "file": "src/app/tabs/tabs.page.ts",
-        "hash": "1949349525049344554"
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ml.json",
+        "hash": "15739136113734260129"
       },
       {
-        "file": "src/app/tabs/tabs.routes.ts",
-        "hash": "5577488371678327876"
+        "file": "android/app/capacitor.build.gradle",
+        "hash": "321577693221425197"
       },
       {
-        "file": "src/assets/icon/favicon.png",
-        "hash": "17482944836898362639"
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-hu/values-hu.xml",
+        "hash": "6397015846840463864"
       },
       {
-        "file": "src/assets/shapes.svg",
-        "hash": "4708889011185296100"
+        "file": "android/app/src/main/assets/public/index.html",
+        "hash": "13712622793798913749"
       },
       {
-        "file": "src/environments/environment.prod.ts",
-        "hash": "5406836414239361753"
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+        "hash": "9676292736324838388"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/javaResources0",
+        "hash": "2356530204771723326"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-sq_values-sq.arsc.flat",
+        "hash": "6515694647110631561"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-vi.json",
+        "hash": "11935272923085638897"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-si/values-si.xml",
+        "hash": "12881374922406389744"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-v27_values-v27.arsc.flat",
+        "hash": "4822886942696310417"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-en-rGB_values-en-rGB.arsc.flat",
+        "hash": "9080974146762059054"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merger.xml",
+        "hash": "11229720641285812633"
+      },
+      {
+        "file": "ionic.config.json",
+        "hash": "7538816204649933561"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/eby4UTMNJSeGfHVUCWdCMJmqN4s=",
+        "hash": "15212717246628210469"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-mk.json",
+        "hash": "18433884248609923097"
+      },
+      {
+        "file": "android/app/build/intermediates/compressed_assets/debug/out/assets/public/assets/shapes.svg.jar",
+        "hash": "783517989271952091"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml",
+        "hash": "2695848670203826518"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-nl.json",
+        "hash": "2157485554975240805"
+      },
+      {
+        "file": "angular.json",
+        "hash": "6062013292978115895"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_manifests/debug/AndroidManifest.xml",
+        "hash": "12218017476130409125"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-ru_values-ru.arsc.flat",
+        "hash": "10498603865182658263"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-it.json",
+        "hash": "8022239713658815625"
+      },
+      {
+        "file": "android/app/build/intermediates/compressed_assets/debug/out/assets/public/3rdpartylicenses.txt.jar",
+        "hash": "9935318056170123415"
       },
       {
         "file": "src/environments/environment.ts",
         "hash": "17458466784506237106"
       },
       {
-        "file": "src/global.scss",
-        "hash": "16777120732726033300"
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-am.json",
+        "hash": "2944096939770212884"
       },
       {
-        "file": "src/index.html",
-        "hash": "5962093970713772175"
+        "file": "android/app/build/intermediates/merged_res/debug/values-ta_values-ta.arsc.flat",
+        "hash": "2277922503296609760"
       },
       {
-        "file": "src/main.ts",
-        "hash": "282009733975285211"
+        "file": "android/app/build.gradle",
+        "hash": "4462205925370081679"
       },
       {
-        "file": "src/polyfills.ts",
-        "hash": "11812151144158597559"
+        "file": "android/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "hash": "206122048416244462"
       },
       {
-        "file": "src/test.ts",
-        "hash": "12412031923219697029"
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-am/values-am.xml",
+        "hash": "8173631523744472529"
       },
       {
-        "file": "src/theme/variables.scss",
-        "hash": "10683809365950317113"
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-hi.json",
+        "hash": "6934527209403468055"
       },
       {
-        "file": "src/zone-flags.ts",
-        "hash": "3323586086306676158"
+        "file": "android/app/build/intermediates/packaged_res/debug/drawable-port-xxhdpi-v4/splash.png",
+        "hash": "1546567578093946022"
       },
       {
-        "file": "tsconfig.app.json",
-        "hash": "9041030522571917449"
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/L_iC6IYht2uraJa7iG4MFXMAPrg=",
+        "hash": "2238253626388062821"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-sw_values-sw.arsc.flat",
+        "hash": "4933642153099693532"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-ko_values-ko.arsc.flat",
+        "hash": "8789241382835634094"
+      },
+      {
+        "file": "android/app/src/main/res/drawable/splash.png",
+        "hash": "13354102016025079206"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-sv_values-sv.arsc.flat",
+        "hash": "16530164542827468630"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
+        "hash": "5429559978920268970"
+      },
+      {
+        "file": "android/app/build/intermediates/assets/debug/public/800.ce76549a0a7a5f8a.js",
+        "hash": "3297154892571730448"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/D_OKiJxCcLnya_qbTFEikKp70m0=",
+        "hash": "11983166078222906302"
+      },
+      {
+        "file": "src/app/app.component.html",
+        "hash": "12139992690072916112"
+      },
+      {
+        "file": "android/app/build/intermediates/compressed_assets/debug/out/assets/public/352.749efa53d2fd6e0e.js.jar",
+        "hash": "4657358473363301515"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/OQZKrYIuRZqukgPj1JwtQP7z1Kg=",
+        "hash": "14731360036306806289"
+      },
+      {
+        "file": "android/app/build/intermediates/assets/debug/public/assets/icon/favicon.png",
+        "hash": "17482944836898362639"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/iRNqSBgNlGO9ypPOQxLpzrXhah0=",
+        "hash": "10606096859130844019"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-te/values-te.xml",
+        "hash": "3689627371864820213"
+      },
+      {
+        "file": "capacitor.config.ts",
+        "hash": "11120010422081925042"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
+        "hash": "10599706802191515885"
+      },
+      {
+        "file": "android/app/build/intermediates/sub_project_dex_archive/debug/out/f6f3f178c851ac94994074e480eb5cd5380ce6162d0526f3442bd520ccd66022_1.jar",
+        "hash": "17970909296062962747"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png",
+        "hash": "17762064175266230691"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-b+sr+Latn_values-b+sr+Latn.arsc.flat",
+        "hash": "16449287562270056208"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-bs.json",
+        "hash": "15917692766960925731"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-lo.json",
+        "hash": "17795072116202316790"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-th.json",
+        "hash": "10518859149959772624"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "hash": "17349230344436995950"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/RXupLkDQgHbDpdrivDxt_W857lo=",
+        "hash": "17138756653422077592"
+      },
+      {
+        "file": "ios/App/App.xcodeproj/project.pbxproj",
+        "hash": "12587833094420857999"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sw/values-sw.xml",
+        "hash": "720703755408334347"
+      },
+      {
+        "file": "src/app/tab1/tab1.page.spec.ts",
+        "hash": "8711086944190325156"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-v23_values-v23.arsc.flat",
+        "hash": "4268097825300805878"
+      },
+      {
+        "file": "ios/App/App/Base.lproj/LaunchScreen.storyboard",
+        "hash": "12402387980291643647"
+      },
+      {
+        "file": "src/app/tabs/tabs.page.scss",
+        "hash": "4055606894390288348"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-el/values-el.xml",
+        "hash": "9181578620669262383"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-da/values-da.xml",
+        "hash": "7277837254709666025"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_res/debug/mipmap-hdpi-v4/ic_launcher_round.png",
+        "hash": "17762064175266230691"
+      },
+      {
+        "file": "android/app/src/main/res/values/ic_launcher_background.xml",
+        "hash": "9482601953118464086"
+      },
+      {
+        "file": "android/app/build/intermediates/assets/debug/public/432.e945103ce46d2f16.js",
+        "hash": "3726060785150920345"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/otherProjects/jar_64bff499e48e9ed0536130898fb1fc3f8447a1efde2e84827c836281f49779ac_bucket_1/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-fa/values-fa.xml",
+        "hash": "12188557971874662150"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_res/debug/drawable-v24/ic_launcher_foreground.xml",
+        "hash": "16602625396055746895"
+      },
+      {
+        "file": "android/app/build/intermediates/local_only_symbol_list/debug/R-def.txt",
+        "hash": "9566904811452283732"
+      },
+      {
+        "file": "android/app/build/intermediates/assets/debug/public/508.70b169afa80acb0c.js",
+        "hash": "6583757272286054270"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v31/values-v31.xml",
+        "hash": "15768350130347978415"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values_values.arsc.flat",
+        "hash": "13156256329700704265"
+      },
+      {
+        "file": "android/app/build/intermediates/dex/debug/mergeLibDexDebug/14/classes.dex",
+        "hash": "13901787144231193576"
+      },
+      {
+        "file": "src/app/app.routes.ts",
+        "hash": "18257155905323275827"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "hash": "1768924141680691424"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_res/debug/drawable-port-hdpi-v4/splash.png",
+        "hash": "7870574596552345396"
+      },
+      {
+        "file": "android/app/src/main/assets/public/88.d7b2ac6c3f60bb88.js",
+        "hash": "15336145768313001711"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-kn/values-kn.xml",
+        "hash": "13758650205628732549"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml",
+        "hash": "17327703596344826414"
+      },
+      {
+        "file": ".eslintrc.json",
+        "hash": "18210278994710539225"
+      },
+      {
+        "file": "android/app/src/main/assets/public/595.d2fb086689b94b9f.js",
+        "hash": "12953985452070653902"
+      },
+      {
+        "file": "android/app/src/main/assets/public/cordova.js",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "android/app/build/intermediates/processed_res/debug/out/output-metadata.json",
+        "hash": "11172161183710954236"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-ms_values-ms.arsc.flat",
+        "hash": "18319023905518787334"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/drawable-land-mdpi_splash.png.flat",
+        "hash": "10271555247994156255"
+      },
+      {
+        "file": "android/app/src/main/assets/public/runtime.17c3cef5d7a85d1b.js",
+        "hash": "15791317568539597051"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-v28_values-v28.arsc.flat",
+        "hash": "1749171549094775145"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-land-xxhdpi/splash.png",
+        "hash": "8114284271146720243"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v29/values-v29.xml",
+        "hash": "7034172962520173137"
+      },
+      {
+        "file": "android/app/src/main/assets/public/3rdpartylicenses.txt",
+        "hash": "5050673141396116054"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-pa/values-pa.xml",
+        "hash": "2361393348750614826"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-gu/values-gu.xml",
+        "hash": "16938057110472059041"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-lo/values-lo.xml",
+        "hash": "3165586223235986610"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/73r17wZHAhUYJPcHV9QZdM3cgK8=",
+        "hash": "1511779929540690368"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-sl_values-sl.arsc.flat",
+        "hash": "10764876629316005165"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-land/values-land.xml",
+        "hash": "8395717858443404759"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v24.json",
+        "hash": "3584149392297669238"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-es_values-es.arsc.flat",
+        "hash": "16195118850255389344"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-be_values-be.arsc.flat",
+        "hash": "5522302916886555405"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-mr.json",
+        "hash": "17726726168054015044"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/ic_launcher.png",
+        "hash": "5466540626246768150"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-port-xxhdpi/splash.png",
+        "hash": "1546567578093946022"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png",
+        "hash": "4133705743351324192"
+      },
+      {
+        "file": "src/app/app.component.spec.ts",
+        "hash": "1169920908592744977"
+      },
+      {
+        "file": "android/app/build/intermediates/app_metadata/debug/app-metadata.properties",
+        "hash": "9531492481238210158"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-port-xhdpi/splash.png",
+        "hash": "13168839858812363171"
+      },
+      {
+        "file": "src/app/tab3/tab3.page.html",
+        "hash": "1640442279298071434"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/mergeDebugAssets/merger.xml",
+        "hash": "14335474068129856006"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-uk.json",
+        "hash": "3187982203924640238"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/otherProjects/jar_2afd18d1517dd47edc8d8989a454dd3a680878c45d4025e08b21a23ae82b08da_bucket_1/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sl.json",
+        "hash": "17863807554457679795"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_res/debug/xml/file_paths.xml",
+        "hash": "14753087816109454837"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/AQiDpNHJUnqXs_q+ccQHnU2SCNM=",
+        "hash": "6669727672521726648"
+      },
+      {
+        "file": "android/app/build/intermediates/compressed_assets/debug/out/assets/capacitor.config.json.jar",
+        "hash": "2120111469038391497"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-pl/values-pl.xml",
+        "hash": "12148580316816202811"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-es.json",
+        "hash": "11252726473666171904"
+      },
+      {
+        "file": "android/app/build/intermediates/assets/debug/public/595.d2fb086689b94b9f.js",
+        "hash": "12953985452070653902"
+      },
+      {
+        "file": "android/app/build/intermediates/assets/debug/public/assets/shapes.svg",
+        "hash": "4708889011185296100"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-mr/values-mr.xml",
+        "hash": "14058002461609491334"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/lPUyTit33BrrFsTMOpjoAAP2mSI=",
+        "hash": "7919396975080991465"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/O2au5F+_Syh7krmytEistiILEiw=",
+        "hash": "2186391197520314849"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
+        "hash": "4166542754981518265"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-kk.json",
+        "hash": "11875919955461807561"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ms.json",
+        "hash": "13222183248588574731"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-kn.json",
+        "hash": "1504874299182725887"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-et.json",
+        "hash": "12865885863948250103"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+        "hash": "6180171457078011664"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-vi/values-vi.xml",
+        "hash": "16393499766302967114"
+      },
+      {
+        "file": "ios/App/App/Assets.xcassets/AppIcon.appiconset/Contents.json",
+        "hash": "8592742828066986329"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/mergeDebugShaders/merger.xml",
+        "hash": "10519188165802292144"
+      },
+      {
+        "file": "ios/App/App/AppDelegate.swift",
+        "hash": "10885055232217572631"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-en-rAU_values-en-rAU.arsc.flat",
+        "hash": "10540951029769774119"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-km_values-km.arsc.flat",
+        "hash": "17300574783204380375"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ldltr-v21.json",
+        "hash": "16554395518662698066"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/8DKiTBbHZoxIgu4y5ZgkHgvjh80=",
+        "hash": "704295746299128897"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/YAMENfWIUdhe6W9GOaThU5k9eI4=",
+        "hash": "5117584624974342821"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-v31_values-v31.arsc.flat",
+        "hash": "7197621591485173243"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-lt/values-lt.xml",
+        "hash": "18210640677281528335"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-uz/values-uz.xml",
+        "hash": "16735954741957774914"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/StAJCK2beYwsBdjeiT+6CJqwayE=",
+        "hash": "11640006651699758754"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-ne_values-ne.arsc.flat",
+        "hash": "16932621930350988396"
+      },
+      {
+        "file": "src/app/tabs/tabs.page.html",
+        "hash": "10373639428334637925"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/384PC+p_FQfD5bdOlMgJ2MjSKAo=",
+        "hash": "6219776684722099164"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-zh-rTW_values-zh-rTW.arsc.flat",
+        "hash": "3342641202026378685"
       },
       {
         "file": "tsconfig.json",
         "hash": "11182919478073887917"
       },
       {
+        "file": "ios/App/App.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
+        "hash": "12722229457274558422"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-ro_values-ro.arsc.flat",
+        "hash": "18160372035889033047"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+        "hash": "6000408568091177393"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-tr/values-tr.xml",
+        "hash": "4116087622721425275"
+      },
+      {
+        "file": "ios/.gitignore",
+        "hash": "7320921161647232324"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "hash": "12604186091469018829"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-en-rIN.json",
+        "hash": "13149103898957635788"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-land.json",
+        "hash": "4688772335051319133"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-my/values-my.xml",
+        "hash": "9998948760793096982"
+      },
+      {
+        "file": "android/app/src/main/assets/public/508.70b169afa80acb0c.js",
+        "hash": "6583757272286054270"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/W8aTWTrv+bAOwIpWpiOYUm773lM=",
+        "hash": "15312530820680076758"
+      },
+      {
+        "file": "ios/App/Podfile",
+        "hash": "16691236976616797776"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/drawable_splash.png.flat",
+        "hash": "3431230595804432045"
+      },
+      {
+        "file": "android/gradle.properties",
+        "hash": "2024862945433011340"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-port_values-port.arsc.flat",
+        "hash": "13203857548046933850"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sw600dp-v13.json",
+        "hash": "14534976900405002213"
+      },
+      {
+        "file": "android/app/proguard-rules.pro",
+        "hash": "16319704539319765030"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+        "hash": "11468429338332782565"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ta.json",
+        "hash": "13120410364580152725"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ta/values-ta.xml",
+        "hash": "1916345965342038136"
+      },
+      {
+        "file": "src/test.ts",
+        "hash": "12412031923219697029"
+      },
+      {
+        "file": "android/app/build/intermediates/sub_project_dex_archive/debug/out/75b947492992a0b337232da0d3d43390df1c746d0308533bf81f2f42c6add35c_3.jar",
+        "hash": "8818125837667359052"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_res/debug/drawable-land-mdpi-v4/splash.png",
+        "hash": "13354102016025079206"
+      },
+      {
+        "file": "android/gradlew",
+        "hash": "9896656627243825026"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-hdpi/ic_launcher.png",
+        "hash": "10700838889768688031"
+      },
+      {
+        "file": "android/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar",
+        "hash": "13039365251093186616"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-uz_values-uz.arsc.flat",
+        "hash": "8239829617864329432"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/otherProjects/jar_b23d7fe64b14cec9a422ac7336f7af4d8007ea630dac36826ee0209e999c9627_bucket_1/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-pa_values-pa.arsc.flat",
+        "hash": "3959201499596425782"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-mn_values-mn.arsc.flat",
+        "hash": "1786370237771013752"
+      },
+      {
+        "file": "src/app/tabs/tabs.page.ts",
+        "hash": "1949349525049344554"
+      },
+      {
+        "file": "android/app/build/intermediates/sub_project_dex_archive/debug/out/f6f3f178c851ac94994074e480eb5cd5380ce6162d0526f3442bd520ccd66022_2.jar",
+        "hash": "13175734908800781197"
+      },
+      {
+        "file": "ios/App/App/Assets.xcassets/AppIcon.appiconset/AppIcon-512@2x.png",
+        "hash": "15912141732076635821"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-km.json",
+        "hash": "8838710856288442312"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-tr.json",
+        "hash": "16026118138890599689"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-de_values-de.arsc.flat",
+        "hash": "11348604741181478003"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/gvUsCtH4z3szYcM9UJZpgl3aV4A=",
+        "hash": "15845369440780032731"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "hash": "11786608056966758828"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-hr.json",
+        "hash": "14163849645089328628"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-as_values-as.arsc.flat",
+        "hash": "568421464660810882"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
+        "hash": "6224215977010786175"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+        "hash": "17155933601423451874"
+      },
+      {
+        "file": "android/app/src/main/res/drawable/ic_launcher_background.xml",
+        "hash": "4055909962711590499"
+      },
+      {
+        "file": "android/app/src/main/assets/public/assets/icon/favicon.png",
+        "hash": "17482944836898362639"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-pl_values-pl.arsc.flat",
+        "hash": "6094546309888018164"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_res/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "hash": "10700838889768688031"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-large-v4.json",
+        "hash": "14836682173162220850"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_manifests/debug/output-metadata.json",
+        "hash": "648727681078724865"
+      },
+      {
+        "file": "README.md",
+        "hash": "13267853836291863429"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-watch-v20_values-watch-v20.arsc.flat",
+        "hash": "16404912724158721584"
+      },
+      {
+        "file": "android/app/src/main/assets/public/432.e945103ce46d2f16.js",
+        "hash": "3726060785150920345"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-pt-rPT.json",
+        "hash": "14802319516689745712"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "hash": "6707030261455841909"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v29.json",
+        "hash": "10599144006736103532"
+      },
+      {
+        "file": "android/app/build/intermediates/assets/debug/public/244.c0da9702e8d6e670.js",
+        "hash": "10683791748531546257"
+      },
+      {
+        "file": "android/app/src/main/assets/public/polyfills.a8ae9b1c4522b100.js",
+        "hash": "6906429018809378215"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/otherProjects/jar_ed8d71f96635c33b5352481bd187929530f4f28a49245a0cb1b400c70e59267c_bucket_2/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-te.json",
+        "hash": "4940418109012637515"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-hu.json",
+        "hash": "16367602884746189713"
+      },
+      {
+        "file": "android/app/build/intermediates/assets/debug/public/220.26351291ad87d8a0.js",
+        "hash": "1640684285850081536"
+      },
+      {
+        "file": "android/app/build/intermediates/dex_archive_input_jar_hashes/debug/out",
+        "hash": "17131168066096905446"
+      },
+      {
+        "file": "android/app/src/main/assets/capacitor.config.json",
+        "hash": "14142018068136060495"
+      },
+      {
+        "file": ".vscode/extensions.json",
+        "hash": "592272277800690021"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-v18_values-v18.arsc.flat",
+        "hash": "15662753872213066461"
+      },
+      {
+        "file": "android/app/src/androidTest/java/com/getcapacitor/myapp/ExampleInstrumentedTest.java",
+        "hash": "1280125089554780403"
+      },
+      {
+        "file": "src/theme/variables.scss",
+        "hash": "10683809365950317113"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-fi.json",
+        "hash": "9225260349812820861"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-fr_values-fr.arsc.flat",
+        "hash": "11313830860214781018"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_res/debug/values/values.xml",
+        "hash": "6851081807641215425"
+      },
+      {
+        "file": "android/app/src/main/java/io/ionic/starter/MainActivity.java",
+        "hash": "18189106575645248423"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ms/values-ms.xml",
+        "hash": "947294921495287988"
+      },
+      {
+        "file": "android/app/src/main/assets/public/800.ce76549a0a7a5f8a.js",
+        "hash": "3297154892571730448"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-si.json",
+        "hash": "2278532918112081475"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-bn/values-bn.xml",
+        "hash": "10868637280225965678"
+      },
+      {
+        "file": "android/app/src/main/res/layout/activity_main.xml",
+        "hash": "13540211242698942768"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-kk/values-kk.xml",
+        "hash": "13029602399728728092"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-sw600dp-v13_values-sw600dp-v13.arsc.flat",
+        "hash": "2301384595968082092"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/otherProjects/jar_2afd18d1517dd47edc8d8989a454dd3a680878c45d4025e08b21a23ae82b08da_bucket_3/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png",
+        "hash": "11484431673195189447"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v31.json",
+        "hash": "6242964575839442754"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-ja_values-ja.arsc.flat",
+        "hash": "14643524231901528303"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-hy_values-hy.arsc.flat",
+        "hash": "7365393160951710231"
+      },
+      {
+        "file": "android/app/build/intermediates/source_set_path_map/debug/file-map.txt",
+        "hash": "805260245362423749"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-ar_values-ar.arsc.flat",
+        "hash": "12787251715827848852"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/otherProjects/jar_4e836ac1da2bfce1a811facabfe018a12e19f0dd28d7e781a0167805d40271f2_bucket_2/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-mn/values-mn.xml",
+        "hash": "4246129883241093616"
+      },
+      {
+        "file": "android/app/build/intermediates/compressed_assets/debug/out/assets/public/runtime.17c3cef5d7a85d1b.js.jar",
+        "hash": "17679110222712110437"
+      },
+      {
+        "file": "src/app/tab3/tab3.page.spec.ts",
+        "hash": "10649680478453371633"
+      },
+      {
+        "file": "src/zone-flags.ts",
+        "hash": "3323586086306676158"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-port.json",
+        "hash": "3480494312082114793"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-zh-rTW.json",
+        "hash": "1483184881401444124"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-iw/values-iw.xml",
+        "hash": "7008977022993529834"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-tl_values-tl.arsc.flat",
+        "hash": "8657463169110609330"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-hi/values-hi.xml",
+        "hash": "943838427911756058"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-ml_values-ml.arsc.flat",
+        "hash": "8869635476701935191"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-az/values-az.xml",
+        "hash": "3055699522142751359"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-mn.json",
+        "hash": "9367707517400889385"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ka.json",
+        "hash": "6854117115863079786"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-gu.json",
+        "hash": "13022239168286271000"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/drawable-port-xhdpi_splash.png.flat",
+        "hash": "11779251957585843614"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-zh-rCN.json",
+        "hash": "9226395860499572419"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ru.json",
+        "hash": "16429338512964599217"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/drawable-port-xxhdpi_splash.png.flat",
+        "hash": "2765583363410321214"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "hash": "13168039479700158316"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ar/values-ar.xml",
+        "hash": "16732617928014778174"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/packageDebugResources/merger.xml",
+        "hash": "8232654659638091454"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png",
+        "hash": "6321943060948364586"
+      },
+      {
+        "file": "src/app/tab1/tab1.page.ts",
+        "hash": "11616757965681502277"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-or/values-or.xml",
+        "hash": "1674341763133674613"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-pt-rBR.json",
+        "hash": "17369800126051747476"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-land-xxxhdpi/splash.png",
+        "hash": "10648225290896133372"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-nl_values-nl.arsc.flat",
+        "hash": "8148478934083343412"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-nb_values-nb.arsc.flat",
+        "hash": "4676480705429389079"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-af.json",
+        "hash": "12335441236410516512"
+      },
+      {
+        "file": "android/app/src/main/assets/public/main.abfc98907940ac1f.js",
+        "hash": "8511405699848184342"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml",
+        "hash": "7529688272881749304"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/debug.json",
+        "hash": "14626118306029879362"
+      },
+      {
+        "file": "android/gradlew.bat",
+        "hash": "8837338129170646035"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/otherProjects/jar_ed8d71f96635c33b5352481bd187929530f4f28a49245a0cb1b400c70e59267c_bucket_0/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "hash": "8436027128663426695"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_res/debug/mipmap-xxxhdpi-v4/ic_launcher_foreground.png",
+        "hash": "11484431673195189447"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_res/debug/drawable-land-hdpi-v4/splash.png",
+        "hash": "12618218220193540786"
+      },
+      {
+        "file": "android/settings.gradle",
+        "hash": "426215723856156424"
+      },
+      {
+        "file": "android/app/build/intermediates/compressed_assets/debug/out/assets/public/432.e945103ce46d2f16.js.jar",
+        "hash": "7653348857789429835"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ne/values-ne.xml",
+        "hash": "10682548995874150053"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-or.json",
+        "hash": "10218317104066806461"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-lv.json",
+        "hash": "15482516076600003978"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-uk_values-uk.arsc.flat",
+        "hash": "6205740100001896102"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-watch-v21.json",
+        "hash": "1768967698188154761"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ro/values-ro.xml",
+        "hash": "16166495782026549688"
+      },
+      {
+        "file": "android/app/build/intermediates/dex/debug/mergeLibDexDebug/2/classes.dex",
+        "hash": "14487690256394531715"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-ldltr-v21_values-ldltr-v21.arsc.flat",
+        "hash": "1427198336082228893"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/BSxdTPnRBow+8AC2RlFTktxuJ3A=",
+        "hash": "18150368686104278913"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/MRo2KdWLraIXv14+HdyoaBhwu_g=",
+        "hash": "13642691032042076859"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-h720dp-v13_values-h720dp-v13.arsc.flat",
+        "hash": "8864913894905080127"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "3538147897195316488"
+      },
+      {
+        "file": "android/app/build/intermediates/apk/debug/app-debug.apk",
+        "hash": "13932578855334770113"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/q1fa9uazOnAm9CBtYfWJ5TXfh4A=",
+        "hash": "10850158767980364502"
+      },
+      {
+        "file": "src/app/explore-container/explore-container.component.html",
+        "hash": "11276277544007458628"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/dJpQlRgzadZ+RrOYAoBwYWhi4Xw=",
+        "hash": "9115860181857924935"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-zh-rHK_values-zh-rHK.arsc.flat",
+        "hash": "2086255838997440490"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_res/debug/drawable/ic_launcher_background.xml",
+        "hash": "4055909962711590499"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_res/debug/layout/activity_main.xml",
+        "hash": "13540211242698942768"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/otherProjects/jar_a44dcc49e54c49c2c0969bf843f795e66ed098beb20e96df907549d8700493b2_bucket_3/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/src/main/assets/public/assets/shapes.svg",
+        "hash": "4708889011185296100"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/otherProjects/jar_2afd18d1517dd47edc8d8989a454dd3a680878c45d4025e08b21a23ae82b08da_bucket_4/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-as.json",
+        "hash": "3159192053872427566"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-lo_values-lo.arsc.flat",
+        "hash": "17602579707136037025"
+      },
+      {
+        "file": "android/app/build/intermediates/dex/debug/mergeLibDexDebug/8/classes.dex",
+        "hash": "7069571020557517366"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/dB55K3KWnCzOgUXEeeGoJMkB+2I=",
+        "hash": "11767690638062770619"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-bg_values-bg.arsc.flat",
+        "hash": "269457820789111723"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_res/debug/mipmap-anydpi-v26/ic_launcher_round.xml",
+        "hash": "16176709064596667284"
+      },
+      {
+        "file": "src/app/tabs/tabs.routes.ts",
+        "hash": "5577488371678327876"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/currentProject/jar_64ed280556585bcb571da8f16fafebc50bfee4369a82745009282c51a5a1c0b6_bucket_2/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v16.json",
+        "hash": "5613152167609148445"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "hash": "11818146440630813423"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "hash": "18086434486144379898"
+      },
+      {
+        "file": "tsconfig.app.json",
+        "hash": "9041030522571917449"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ja.json",
+        "hash": "2521695995113604348"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v23.json",
+        "hash": "3404043027587305342"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml",
+        "hash": "16176709064596667284"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/otherProjects/jar_2afd18d1517dd47edc8d8989a454dd3a680878c45d4025e08b21a23ae82b08da_bucket_2/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml",
+        "hash": "12195684117671287209"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-v21_values-v21.arsc.flat",
+        "hash": "1495211312462152039"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-hr_values-hr.arsc.flat",
+        "hash": "5527438850750666754"
+      },
+      {
+        "file": "android/app/build/intermediates/compressed_assets/debug/out/assets/public/index.html.jar",
+        "hash": "16331769363545303200"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_1/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_res/debug/mipmap-mdpi-v4/ic_launcher_foreground.png",
+        "hash": "4133705743351324192"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-et/values-et.xml",
+        "hash": "6014475220775159285"
+      },
+      {
+        "file": "android/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt",
+        "hash": "7178335925902708749"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml",
+        "hash": "14503340293952648394"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-my_values-my.arsc.flat",
+        "hash": "9277688750452293936"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-ur_values-ur.arsc.flat",
+        "hash": "6559828859192862268"
+      },
+      {
+        "file": "src/app/tab1/tab1.page.html",
+        "hash": "16919770783111258333"
+      },
+      {
+        "file": "android/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex",
+        "hash": "7086928975323018118"
+      },
+      {
+        "file": "android/app/build/intermediates/compressed_assets/debug/out/assets/public/800.ce76549a0a7a5f8a.js.jar",
+        "hash": "17657338293266171926"
+      },
+      {
+        "file": "android/app/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin",
+        "hash": "16999059568696128739"
+      },
+      {
+        "file": "android/app/src/main/assets/public/352.749efa53d2fd6e0e.js",
+        "hash": "5849654663490996778"
+      },
+      {
+        "file": "src/app/tab1/tab1.page.scss",
+        "hash": "270748269272316548"
+      },
+      {
+        "file": "src/app/player-controller/player-controller.service.spec.ts",
+        "hash": "11346767683774734227"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-or_values-or.arsc.flat",
+        "hash": "5883378296950637802"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-az.json",
+        "hash": "5066739940710777310"
+      },
+      {
+        "file": "src/assets/shapes.svg",
+        "hash": "4708889011185296100"
+      },
+      {
+        "file": "ios/App/App/Info.plist",
+        "hash": "1171703298111603917"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/drawable-land-hdpi_splash.png.flat",
+        "hash": "15065686245718789534"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-in/values-in.xml",
+        "hash": "7697980988317394179"
+      },
+      {
+        "file": "android/app/build/intermediates/compressed_assets/debug/out/assets/public/924.494a8f738484a704.js.jar",
+        "hash": "7943836400051947668"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
+        "hash": "8944768631859381237"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/DJU8b0uHC2KGUBa1NWbkdk+hRb4=",
+        "hash": "11001563145450724975"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-uz.json",
+        "hash": "2076267209093168408"
+      },
+      {
+        "file": "android/app/build/intermediates/apk_ide_redirect_file/debug/redirect.txt",
+        "hash": "3916120992292017974"
+      },
+      {
+        "file": "android/app/src/main/res/values/strings.xml",
+        "hash": "15088736420784168150"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v25.json",
+        "hash": "16969884410946244132"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_manifest/debug/AndroidManifest.xml",
+        "hash": "12218017476130409125"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state",
+        "hash": "6972515626467256003"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-th_values-th.arsc.flat",
+        "hash": "13583201369150115260"
+      },
+      {
+        "file": "android/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt",
+        "hash": "14898563965703185553"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ic_launcher_foreground.png",
+        "hash": "6222172872530160361"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-pl.json",
+        "hash": "15834502994669456447"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v18.json",
+        "hash": "16255030394764025300"
+      },
+      {
+        "file": "android/app/src/main/res/xml/config.xml",
+        "hash": "474798728445634719"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-bg/values-bg.xml",
+        "hash": "4297708407263398750"
+      },
+      {
+        "file": "android/app/src/main/assets/public/common.e5055ea050e779af.js",
+        "hash": "7361874165664841946"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-port-xxxhdpi/splash.png",
+        "hash": "7224188242308859997"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/otherProjects/jar_64bff499e48e9ed0536130898fb1fc3f8447a1efde2e84827c836281f49779ac_bucket_2/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-iw.json",
+        "hash": "15314026021306511890"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ky.json",
+        "hash": "9182709774724543517"
+      },
+      {
+        "file": "android/app/build/intermediates/assets/debug/public/index.html",
+        "hash": "13712622793798913749"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/otherProjects/jar_b23d7fe64b14cec9a422ac7336f7af4d8007ea630dac36826ee0209e999c9627_bucket_2/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/build.gradle",
+        "hash": "15247024166514751308"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-mdpi/ic_launcher.png",
+        "hash": "9342129704159603628"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-af/values-af.xml",
+        "hash": "1878595843175351547"
+      },
+      {
+        "file": "android/gradle/wrapper/gradle-wrapper.jar",
+        "hash": "13643854122011606232"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+        "hash": "1279561900118801178"
+      },
+      {
+        "file": "ios/App/Podfile.lock",
+        "hash": "6864358339961877068"
+      },
+      {
+        "file": ".editorconfig",
+        "hash": "6686520031028425313"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml",
+        "hash": "12218017476130409125"
+      },
+      {
+        "file": "android/app/build/intermediates/assets/debug/public/cordova.js",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-fr-rCA.json",
+        "hash": "1205178867544806389"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-pt.json",
+        "hash": "11800469929439310093"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
+        "hash": "13454037865820334454"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sq.json",
+        "hash": "1706274281202600479"
+      },
+      {
+        "file": "android/.gitignore",
+        "hash": "16088808965373471785"
+      },
+      {
+        "file": "ios/App/App.xcodeproj/project.xcworkspace/contents.xcworkspacedata",
+        "hash": "1121729896424732029"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-tl.json",
+        "hash": "7015383670439679368"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v27/values-v27.xml",
+        "hash": "5526446539912390189"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ko/values-ko.xml",
+        "hash": "12463787896555623170"
+      },
+      {
+        "file": "android/app/src/main/assets/public/348.ab1892c9bb7a81ff.js",
+        "hash": "825655443467470768"
+      },
+      {
+        "file": "android/app/src/main/assets/public/924.494a8f738484a704.js",
+        "hash": "4223386901192756205"
+      },
+      {
+        "file": "android/app/src/main/res/values/styles.xml",
+        "hash": "17918612613785874663"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values/values.xml",
+        "hash": "9231023731051151239"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-mk_values-mk.arsc.flat",
+        "hash": "4406329082608728394"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sk/values-sk.xml",
+        "hash": "15293215463170079301"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-bs/values-bs.xml",
+        "hash": "9963934663627542505"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/otherProjects/jar_4e836ac1da2bfce1a811facabfe018a12e19f0dd28d7e781a0167805d40271f2_bucket_3/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "src/main.ts",
+        "hash": "282009733975285211"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-land_values-land.arsc.flat",
+        "hash": "9126219557108755967"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-is_values-is.arsc.flat",
+        "hash": "13082185188713749979"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-hy/values-hy.xml",
+        "hash": "1588403064413807814"
+      },
+      {
+        "file": "android/app/build/intermediates/project_dex_archive/debug/out/ebbb23e9eba1fc9bcbfd78e152edc3a7a4fbd8185b4bf189bd5e44470050bfbe_1.jar",
+        "hash": "3763670635607433020"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-pt_values-pt.arsc.flat",
+        "hash": "14932397519343305891"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-v24_values-v24.arsc.flat",
+        "hash": "2396919238320422533"
+      },
+      {
+        "file": "android/app/src/main/assets/public/220.26351291ad87d8a0.js",
+        "hash": "1640684285850081536"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/hDR+a4Z3qMXddyvylznLZThunYU=",
+        "hash": "8774424334195413425"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ky/values-ky.xml",
+        "hash": "12706963140554520714"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_res/debug/drawable-land-xxhdpi-v4/splash.png",
+        "hash": "8114284271146720243"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_res/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
+        "hash": "18428292913404649045"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/currentProject/jar_64ed280556585bcb571da8f16fafebc50bfee4369a82745009282c51a5a1c0b6_bucket_1/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/navigation_json/debug/navigation.json",
+        "hash": "9444422325801888874"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png",
+        "hash": "6222172872530160361"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-uk/values-uk.xml",
+        "hash": "11043129764648238551"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ar.json",
+        "hash": "4508518250347770905"
+      },
+      {
+        "file": "android/app/build/intermediates/project_dex_archive/debug/out/ebbb23e9eba1fc9bcbfd78e152edc3a7a4fbd8185b4bf189bd5e44470050bfbe_4.jar",
+        "hash": "3877029775369210663"
+      },
+      {
+        "file": "src/app/tab3/tab3.page.ts",
+        "hash": "5581557519451467703"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json",
+        "hash": "5211509255127462567"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-large-v4_values-large-v4.arsc.flat",
+        "hash": "16046299965078343455"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/AUEiCYZyJ6+r1G9AYfdmBcQayhI=",
+        "hash": "15151247629655787725"
+      },
+      {
+        "file": "src/index.html",
+        "hash": "5962093970713772175"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-cs.json",
+        "hash": "4034405949553710463"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "hash": "15217182317603044361"
+      },
+      {
+        "file": "src/app/tab3/tab3.page.scss",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/i_osYwcdYrSY7rUKHfCiHwXRpb0=",
+        "hash": "9094142602497979187"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png",
+        "hash": "9039760806353812177"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/otherProjects/jar_ed8d71f96635c33b5352481bd187929530f4f28a49245a0cb1b400c70e59267c_bucket_4/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-v29_values-v29.arsc.flat",
+        "hash": "1299470711947132803"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-v22_values-v22.arsc.flat",
+        "hash": "7236863567281454600"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-bg.json",
+        "hash": "16248473729791329005"
+      },
+      {
+        "file": "android/app/build/intermediates/compressed_assets/debug/out/assets/public/styles.b2664a24098dc4dc.css.jar",
+        "hash": "3003169457357416804"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_res/debug/mipmap-anydpi-v26/ic_launcher.xml",
+        "hash": "16176709064596667284"
+      },
+      {
+        "file": "android/app/src/main/assets/public/244.c0da9702e8d6e670.js",
+        "hash": "10683791748531546257"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+        "hash": "18428292913404649045"
+      },
+      {
+        "file": "android/app/build/intermediates/dex_number_of_buckets_file/debug/out",
+        "hash": "16058596026395164274"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-nb.json",
+        "hash": "7400229684180896053"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png",
+        "hash": "16696879462706858720"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-hr/values-hr.xml",
+        "hash": "13672233166617411583"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/otherProjects/jar_4e836ac1da2bfce1a811facabfe018a12e19f0dd28d7e781a0167805d40271f2_bucket_0/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/assets/debug/public/common.e5055ea050e779af.js",
+        "hash": "7361874165664841946"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/otherProjects/jar_a44dcc49e54c49c2c0969bf843f795e66ed098beb20e96df907549d8700493b2_bucket_4/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-nl/values-nl.xml",
+        "hash": "986746408806500128"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-ca_values-ca.arsc.flat",
+        "hash": "16712958284781680944"
+      },
+      {
+        "file": "android/app/build/intermediates/compressed_assets/debug/out/assets/public/772.700607bf519066db.js.jar",
+        "hash": "8837341669932159572"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sk.json",
+        "hash": "1135188628970986318"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-night-v8.json",
+        "hash": "12163205787809058487"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-port-mdpi/splash.png",
+        "hash": "512985810174291431"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/ic_launcher_foreground.png",
+        "hash": "6321943060948364586"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-da_values-da.arsc.flat",
+        "hash": "4076868620421998891"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v26.json",
+        "hash": "5231653531462328605"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Cvje_sGlTcyRA7T+_FXy3TrxwOg=",
+        "hash": "10610859169459761307"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-in.json",
+        "hash": "10323431221201782692"
+      },
+      {
+        "file": "src/global.scss",
+        "hash": "16777120732726033300"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-fr-rCA_values-fr-rCA.arsc.flat",
+        "hash": "3293489355039173047"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-pt-rPT_values-pt-rPT.arsc.flat",
+        "hash": "12978051074795827926"
+      },
+      {
+        "file": "android/app/build/intermediates/assets/debug/public/772.700607bf519066db.js",
+        "hash": "18121391360524492477"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/otherProjects/jar_b23d7fe64b14cec9a422ac7336f7af4d8007ea630dac36826ee0209e999c9627_bucket_3/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/PAaKfcfgLirNv_ktrVHRRUK1rYE=",
+        "hash": "6554035903231376720"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/neGVyZxuYU4L3jPhCDnL6NptXOQ=",
+        "hash": "14077800971697895768"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "hash": "15286388788233680596"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-zu.json",
+        "hash": "6258941142265504574"
+      },
+      {
+        "file": "android/app/build/intermediates/signing_config_versions/debug/signing-config-versions.json",
+        "hash": "16207969368716178983"
+      },
+      {
+        "file": "src/app/tab2/tab2.page.ts",
+        "hash": "10239354924764746526"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml",
+        "hash": "18076131675232803343"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_0/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-bs_values-bs.arsc.flat",
+        "hash": "2937616036428107520"
+      },
+      {
+        "file": "android/app/build/intermediates/processed_res/debug/out/resources-debug.ap_",
+        "hash": "12071911743493865178"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/currentProject/jar_64ed280556585bcb571da8f16fafebc50bfee4369a82745009282c51a5a1c0b6_bucket_0/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ja/values-ja.xml",
+        "hash": "16410804853344186647"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources",
+        "hash": "8103865179625226691"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/otherProjects/jar_64bff499e48e9ed0536130898fb1fc3f8447a1efde2e84827c836281f49779ac_bucket_3/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml",
+        "hash": "990491939661154029"
+      },
+      {
+        "file": "src/polyfills.ts",
+        "hash": "11812151144158597559"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
+        "hash": "13933536524732322945"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/otherProjects/jar_64bff499e48e9ed0536130898fb1fc3f8447a1efde2e84827c836281f49779ac_bucket_4/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-bn_values-bn.arsc.flat",
+        "hash": "11274034973252526878"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-eu/values-eu.xml",
+        "hash": "12503669926938919366"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png",
+        "hash": "14088589834205738071"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sv.json",
+        "hash": "6987611125836440780"
+      },
+      {
+        "file": "package.json",
+        "hash": "5853503705990131827"
+      },
+      {
+        "file": "android/app/build/intermediates/compressed_assets/debug/out/assets/public/assets/icon/favicon.png.jar",
+        "hash": "8149799374706127223"
+      },
+      {
+        "file": "android/app/build/intermediates/dex/debug/mergeProjectDexDebug/7/classes.dex",
+        "hash": "18365612170419297189"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-my.json",
+        "hash": "7827566449560412591"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml",
+        "hash": "3652637053026023389"
+      },
+      {
+        "file": "android/app/build/intermediates/variant_model/debug/variant_model.json",
+        "hash": "2490979409744636784"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_res/debug/drawable-port-xhdpi-v4/splash.png",
+        "hash": "13168839858812363171"
+      },
+      {
+        "file": "android/app/build/intermediates/compressed_assets/debug/out/assets/capacitor.plugins.json.jar",
+        "hash": "10544060625309329440"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-de/values-de.xml",
+        "hash": "12193460595746233441"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "91109559695469517"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-pt-rBR_values-pt-rBR.arsc.flat",
+        "hash": "128470402951937048"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-hdpi-v4_values-hdpi-v4.arsc.flat",
+        "hash": "657376505921809906"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
+        "hash": "15127275078370164788"
+      },
+      {
+        "file": "android/app/build/intermediates/project_dex_archive/debug/out/io/ionic/starter/MainActivity.dex",
+        "hash": "18365612170419297189"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/e936hGv6rCbymfT+sNYziDvUboo=",
+        "hash": "4206267184546324727"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/ic_launcher_round.png",
+        "hash": "14088589834205738071"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "hash": "14283226356110757936"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-et_values-et.arsc.flat",
+        "hash": "11981734404554998226"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "hash": "11340733738475548669"
+      },
+      {
+        "file": "android/app/src/test/java/com/getcapacitor/myapp/ExampleUnitTest.java",
+        "hash": "11856600006954306230"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-land-xhdpi/splash.png",
+        "hash": "16928120350772912315"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v17.json",
+        "hash": "11010212664700343772"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-km/values-km.xml",
+        "hash": "13416008846873542278"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-xlarge-v4_values-xlarge-v4.arsc.flat",
+        "hash": "15077336428894200"
+      },
+      {
+        "file": "android/app/build/intermediates/sub_project_dex_archive/debug/out/21561c371c47d36a758ad4b320cde18a98213c6549e7662830008467f675dc37_4.jar",
+        "hash": "11365987444441111883"
+      },
+      {
+        "file": "android/app/build/intermediates/project_dex_archive/debug/out/ebbb23e9eba1fc9bcbfd78e152edc3a7a4fbd8185b4bf189bd5e44470050bfbe_2.jar",
+        "hash": "18303572055445591657"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png",
+        "hash": "1772322197088498798"
+      },
+      {
+        "file": "android/app/build/outputs/logs/manifest-merger-debug-report.txt",
+        "hash": "3151530188165627001"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-fa_values-fa.arsc.flat",
+        "hash": "2934022541373611613"
+      },
+      {
+        "file": "android/app/build/intermediates/compressed_assets/debug/out/assets/public/595.d2fb086689b94b9f.js.jar",
+        "hash": "17221429985415760021"
+      },
+      {
+        "file": "android/app/build/intermediates/compressed_assets/debug/out/assets/public/common.e5055ea050e779af.js.jar",
+        "hash": "13655176127579658224"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_manifests/debug/output-metadata.json",
+        "hash": "12624616910633544607"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/eONJ15J4nNrJnyx8kvyE8wk5oHs=",
+        "hash": "861529628734183504"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-de.json",
+        "hash": "15385051710139447562"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-kk_values-kk.arsc.flat",
+        "hash": "7663902363178512513"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-fi_values-fi.arsc.flat",
+        "hash": "14148501703902561353"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v21.json",
+        "hash": "4186998060731541822"
+      },
+      {
+        "file": "android/app/build/intermediates/compressed_assets/debug/out/assets/native-bridge.js.jar",
+        "hash": "7792309517560279763"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_res/debug/drawable-land-xxxhdpi-v4/splash.png",
+        "hash": "10648225290896133372"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ka/values-ka.xml",
+        "hash": "14158491491117805141"
+      },
+      {
+        "file": "android/app/build/intermediates/annotation_processor_list/debug/annotationProcessors.json",
+        "hash": "1389868326933519382"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_res/debug/mipmap-hdpi-v4/ic_launcher_foreground.png",
+        "hash": "15163013499175324231"
+      },
+      {
+        "file": "src/app/explore-container/explore-container.component.ts",
+        "hash": "9627812680309577193"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ur/values-ur.xml",
+        "hash": "12843491226688282951"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-bn.json",
+        "hash": "9661203559322259019"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-am_values-am.arsc.flat",
+        "hash": "8943265427756586274"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "hash": "17260501140766853018"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/vWC2mWJjz9r04b_KKCtEiZeQdRA=",
+        "hash": "1381355930367038504"
+      },
+      {
+        "file": "ios/App/App/Assets.xcassets/Splash.imageset/splash-2732x2732.png",
+        "hash": "3237967808663258630"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+        "hash": "1793785377438430374"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-az_values-az.arsc.flat",
+        "hash": "5093741848510294597"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/compile-file-map.properties",
+        "hash": "16332387395418561444"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+        "hash": "5466540626246768150"
+      },
+      {
+        "file": "ios/App/App/Assets.xcassets/Contents.json",
+        "hash": "5990803069847060607"
+      },
+      {
+        "file": "android/app/build/intermediates/apk/debug/output-metadata.json",
+        "hash": "15219192465584228470"
+      },
+      {
+        "file": "android/app/build/intermediates/assets/debug/public/348.ab1892c9bb7a81ff.js",
+        "hash": "825655443467470768"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-in_values-in.arsc.flat",
+        "hash": "3633864268236359757"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/1Dfa_a7Bg7A_o+vy3COV7Pp_UI8=",
+        "hash": "4234285428431625333"
+      },
+      {
+        "file": "android/app/src/main/AndroidManifest.xml",
+        "hash": "12528062732277341723"
+      },
+      {
+        "file": "android/app/build/intermediates/compressed_assets/debug/out/assets/public/main.abfc98907940ac1f.js.jar",
+        "hash": "5303513302206767996"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-hu_values-hu.arsc.flat",
+        "hash": "4607558519270202924"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/voSefNxK_6XUvbSZhgO7I7aKcBg=",
+        "hash": "14532861132288198007"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_res/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "hash": "9342129704159603628"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-fr/values-fr.xml",
+        "hash": "4793078677816932313"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-cs_values-cs.arsc.flat",
+        "hash": "6141605556581327448"
+      },
+      {
+        "file": "src/app/tab2/tab2.page.html",
+        "hash": "13340392613393970086"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-en-rGB.json",
+        "hash": "16929238171278803846"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sr.json",
+        "hash": "16489355432631230618"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-is.json",
+        "hash": "8095326149257704677"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-v26_values-v26.arsc.flat",
+        "hash": "16937461225757048278"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/GfHLGZa+eGjNdqoaIwe_61C_eWk=",
+        "hash": "9556895201015347069"
+      },
+      {
+        "file": "android/variables.gradle",
+        "hash": "9467210284462474397"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/drawable-land-xhdpi_splash.png.flat",
+        "hash": "11474510645893608714"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml",
+        "hash": "7244139148617117234"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ic_launcher.png",
+        "hash": "15127275078370164788"
+      },
+      {
+        "file": "src/app/explore-container/explore-container.component.scss",
+        "hash": "14250411118003398491"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values.json",
+        "hash": "18262159674174432937"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-tl/values-tl.xml",
+        "hash": "5850543910546963458"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-lv_values-lv.arsc.flat",
+        "hash": "3698340249995984970"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-pa.json",
+        "hash": "8137664859336921619"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-fi/values-fi.xml",
+        "hash": "13311603080384368470"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+        "hash": "17047729938783563834"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/drawable-port-hdpi_splash.png.flat",
+        "hash": "7588654814842731993"
+      },
+      {
+        "file": "karma.conf.js",
+        "hash": "13719387092471133633"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-mr_values-mr.arsc.flat",
+        "hash": "4827947471277223187"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_res/debug/drawable-land-xhdpi-v4/splash.png",
+        "hash": "16928120350772912315"
+      },
+      {
+        "file": ".browserslistrc",
+        "hash": "7979060078399394427"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt",
+        "hash": "11635649286311174309"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ru/values-ru.xml",
+        "hash": "8565836734898139148"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/drawable-port-mdpi_splash.png.flat",
+        "hash": "6280445491888213967"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/E+BN4tDJPAe2pKLTJ8RGYsMK_tc=",
+        "hash": "14159192764709148396"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ko.json",
+        "hash": "9097831334891706062"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml",
+        "hash": "14503340293952648394"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-port-hdpi/splash.png",
+        "hash": "7870574596552345396"
+      },
+      {
+        "file": "android/gradle/wrapper/gradle-wrapper.properties",
+        "hash": "10340632815092109200"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/otherProjects/jar_64bff499e48e9ed0536130898fb1fc3f8447a1efde2e84827c836281f49779ac_bucket_0/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/QUGMjeFLqK9crX7jZDWV65lCXGA=",
+        "hash": "6716351955596851434"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-zh-rHK.json",
+        "hash": "12635552742023856427"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-port/values-port.xml",
+        "hash": "5344467065285146592"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-as/values-as.xml",
+        "hash": "14956024513899376206"
+      },
+      {
+        "file": "android/app/src/main/assets/public/styles.b2664a24098dc4dc.css",
+        "hash": "3219817950824317445"
+      },
+      {
+        "file": "src/app/tab2/tab2.page.spec.ts",
+        "hash": "10330460238115220644"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ca/values-ca.xml",
+        "hash": "2056640866746978339"
+      },
+      {
+        "file": "android/app/build/intermediates/assets/debug/public/3rdpartylicenses.txt",
+        "hash": "5050673141396116054"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/eEKM+6fu8WzhRkiX1bk90ESLi9g=",
+        "hash": "15574378174695269515"
+      },
+      {
         "file": "tsconfig.spec.json",
         "hash": "17198424518534092990"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ic_launcher_round.png",
+        "hash": "16696879462706858720"
+      },
+      {
+        "file": "ios/App/App/Assets.xcassets/Splash.imageset/splash-2732x2732-1.png",
+        "hash": "3237967808663258630"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-v25_values-v25.arsc.flat",
+        "hash": "11991287890051928674"
+      },
+      {
+        "file": "android/app/build/intermediates/compressed_assets/debug/out/assets/public/220.26351291ad87d8a0.js.jar",
+        "hash": "7487866592655828172"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-lv/values-lv.xml",
+        "hash": "6621387065576766722"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/LhidckcSCk7ozn4heQdnOanx01A=",
+        "hash": "6472581451414024491"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-watch-v21/values-watch-v21.xml",
+        "hash": "12248213944906249147"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-be.json",
+        "hash": "15853313521455466598"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-hy.json",
+        "hash": "6770311763351702388"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/KEKmtAq7KE5x7sGWIri6sl_RYFg=",
+        "hash": "14779966243866771748"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-en-rCA.json",
+        "hash": "2549839090492660968"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-pt/values-pt.xml",
+        "hash": "5429559978920268970"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/otherProjects/jar_4e836ac1da2bfce1a811facabfe018a12e19f0dd28d7e781a0167805d40271f2_bucket_4/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex",
+        "hash": "5734492624860764269"
+      },
+      {
+        "file": "android/app/build/intermediates/project_dex_archive/debug/out/ebbb23e9eba1fc9bcbfd78e152edc3a7a4fbd8185b4bf189bd5e44470050bfbe_3.jar",
+        "hash": "17498316607289651618"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/xml_file_paths.xml.flat",
+        "hash": "8887553764156513682"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-lt_values-lt.arsc.flat",
+        "hash": "18131238249819508401"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-da.json",
+        "hash": "17580461120813747995"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-hdpi-v4.json",
+        "hash": "5158262338484677195"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/currentProject/jar_64ed280556585bcb571da8f16fafebc50bfee4369a82745009282c51a5a1c0b6_bucket_3/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/otherProjects/jar_2afd18d1517dd47edc8d8989a454dd3a680878c45d4025e08b21a23ae82b08da_bucket_0/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-en-rXC_values-en-rXC.arsc.flat",
+        "hash": "4529101141004568396"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v28.json",
+        "hash": "1954240947754800120"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties",
+        "hash": "11989518398717172111"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/drawable-port-xxxhdpi_splash.png.flat",
+        "hash": "7176561091222840618"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/abR1GDr_atAEJUVPGPaOwwM8u3Q=",
+        "hash": "2247578296675443108"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png",
+        "hash": "15163013499175324231"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sl/values-sl.xml",
+        "hash": "2529569432965172259"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-th/values-th.xml",
+        "hash": "14629593985672660118"
+      },
+      {
+        "file": "android/app/build/intermediates/compatible_screen_manifest/debug/output-metadata.json",
+        "hash": "8688257006174393111"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir/values/values.xml",
+        "hash": "6851081807641215425"
+      },
+      {
+        "file": "android/app/build/intermediates/sub_project_dex_archive/debug/out/21561c371c47d36a758ad4b320cde18a98213c6549e7662830008467f675dc37_2.jar",
+        "hash": "3453534532620070850"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-kn_values-kn.arsc.flat",
+        "hash": "4515550918189897397"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-ka_values-ka.arsc.flat",
+        "hash": "10404688125622998683"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-tr_values-tr.arsc.flat",
+        "hash": "5725696398743638223"
+      },
+      {
+        "file": "src/app/explore-container/explore-container.component.spec.ts",
+        "hash": "13935599920762330903"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-zu_values-zu.arsc.flat",
+        "hash": "5161809208420721440"
+      },
+      {
+        "file": "android/app/build/intermediates/project_dex_archive/debug/out/ebbb23e9eba1fc9bcbfd78e152edc3a7a4fbd8185b4bf189bd5e44470050bfbe_0.jar",
+        "hash": "17883117856323824139"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_res/debug/mipmap-xxxhdpi-v4/ic_launcher_round.png",
+        "hash": "1772322197088498798"
+      },
+      {
+        "file": "android/app/build/intermediates/sub_project_dex_archive/debug/out/21561c371c47d36a758ad4b320cde18a98213c6549e7662830008467f675dc37_1.jar",
+        "hash": "6365846903435725036"
+      },
+      {
+        "file": ".vscode/settings.json",
+        "hash": "15984962574478442732"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v27.json",
+        "hash": "4844570428951756335"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-b+sr+Latn.json",
+        "hash": "1402441854282978762"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-en-rXC.json",
+        "hash": "5594174103028590788"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/do6HU1EKp2+BlK3wSZ2_OC+HPPI=",
+        "hash": "15025358407142483754"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+        "hash": "16880708684365083902"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-el_values-el.arsc.flat",
+        "hash": "10197675571328843730"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/otherProjects/jar_ed8d71f96635c33b5352481bd187929530f4f28a49245a0cb1b400c70e59267c_bucket_3/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/assets/debug/capacitor.plugins.json",
+        "hash": "12111528418946454353"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/otherProjects/jar_ed8d71f96635c33b5352481bd187929530f4f28a49245a0cb1b400c70e59267c_bucket_1/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-es-rUS.json",
+        "hash": "3393151426876397166"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-watch-v20.json",
+        "hash": "5425080213634603450"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_res/debug/drawable/splash.png",
+        "hash": "13354102016025079206"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-gl_values-gl.arsc.flat",
+        "hash": "6281084710996855978"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-is/values-is.xml",
+        "hash": "10579558298354913181"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-watch-v21_values-watch-v21.arsc.flat",
+        "hash": "694378118398899170"
+      },
+      {
+        "file": "android/app/build/intermediates/assets/debug/public/cordova_plugins.js",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "android/app/build/intermediates/dex/debug/mergeLibDexDebug/4/classes.dex",
+        "hash": "112808302083684637"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-xlarge-v4.json",
+        "hash": "52594501499294074"
+      },
+      {
+        "file": "android/app/build/intermediates/assets/debug/public/main.abfc98907940ac1f.js",
+        "hash": "8511405699848184342"
+      },
+      {
+        "file": "ios/App/App/Assets.xcassets/Splash.imageset/splash-2732x2732-2.png",
+        "hash": "3237967808663258630"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-en-rCA_values-en-rCA.arsc.flat",
+        "hash": "3857140702812450611"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-iw_values-iw.arsc.flat",
+        "hash": "13012677322692514200"
+      },
+      {
+        "file": "android/app/build/intermediates/assets/debug/capacitor.config.json",
+        "hash": "14142018068136060495"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_3/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+        "hash": "16786321714790185101"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/q1yKOyzs60CNpx8+RA5hUb7vUhk=",
+        "hash": "13873922096046346736"
+      },
+      {
+        "file": "android/app/build/intermediates/compressed_assets/debug/out/assets/public/244.c0da9702e8d6e670.js.jar",
+        "hash": "15197332152680227042"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml",
+        "hash": "14503340293952648394"
+      },
+      {
+        "file": "android/capacitor.settings.gradle",
+        "hash": "14622451423594914531"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-fa.json",
+        "hash": "8765729783565104740"
+      },
+      {
+        "file": "src/app/player-controller/player-controller.service.ts",
+        "hash": "6943050062595258247"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sr/values-sr.xml",
+        "hash": "14244234506164392471"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-nb/values-nb.xml",
+        "hash": "15473534672135784460"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_res/debug/drawable-port-xxxhdpi-v4/splash.png",
+        "hash": "7224188242308859997"
+      },
+      {
+        "file": "src/app/tabs/tabs.page.spec.ts",
+        "hash": "10096415410414342163"
+      },
+      {
+        "file": "android/app/build/intermediates/assets/debug/native-bridge.js",
+        "hash": "14856563619147013372"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-be/values-be.xml",
+        "hash": "8295662353229532000"
+      },
+      {
+        "file": "android/app/build/intermediates/stable_resource_ids_file/debug/stableIds.txt",
+        "hash": "17960282540756008083"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sv/values-sv.xml",
+        "hash": "799072058554828442"
+      },
+      {
+        "file": "src/assets/icon/favicon.png",
+        "hash": "17482944836898362639"
+      },
+      {
+        "file": "android/app/build/intermediates/assets/debug/public/924.494a8f738484a704.js",
+        "hash": "4223386901192756205"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/drawable-land-xxxhdpi_splash.png.flat",
+        "hash": "7080364235529647923"
+      },
+      {
+        "file": "android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml",
+        "hash": "16176709064596667284"
+      },
+      {
+        "file": "android/app/.gitignore",
+        "hash": "3800628318224317187"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_2/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-h720dp-v13.json",
+        "hash": "12918956582965144118"
+      },
+      {
+        "file": "android/app/build/intermediates/assets/debug/public/styles.b2664a24098dc4dc.css",
+        "hash": "3219817950824317445"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-v16_values-v16.arsc.flat",
+        "hash": "14869028692649661801"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml",
+        "hash": "10632735233083468655"
+      },
+      {
+        "file": "android/app/src/main/assets/public/cordova_plugins.js",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "ios/App/App/Assets.xcassets/Splash.imageset/Contents.json",
+        "hash": "9385842541853943677"
+      },
+      {
+        "file": "android/app/build/intermediates/compressed_assets/debug/out/assets/public/508.70b169afa80acb0c.js.jar",
+        "hash": "32090044788196758"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_java_res/debug/base.jar",
+        "hash": "7174206638103680886"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/otherProjects/jar_b23d7fe64b14cec9a422ac7336f7af4d8007ea630dac36826ee0209e999c9627_bucket_0/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/sub_project_dex_archive/debug/out/dcdb84275eacfb25b790efc5a5f3ea46920ec1a81efe5dca8ca451d90ce7da49_3.jar",
+        "hash": "9715649586566319446"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-en-rIN_values-en-rIN.arsc.flat",
+        "hash": "11552964039107995117"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/otherProjects/jar_a44dcc49e54c49c2c0969bf843f795e66ed098beb20e96df907549d8700493b2_bucket_1/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-gu_values-gu.arsc.flat",
+        "hash": "2825434391417809442"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ml/values-ml.xml",
+        "hash": "4737047143615411544"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-fr.json",
+        "hash": "11331420994563801433"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "hash": "3103454498764106927"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-vi_values-vi.arsc.flat",
+        "hash": "5966144713332502007"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "hash": "12973630154602284825"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-sk_values-sk.arsc.flat",
+        "hash": "14254706787791120789"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/xml_config.xml.flat",
+        "hash": "8964352768277254814"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ro.json",
+        "hash": "14732281959337026529"
+      },
+      {
+        "file": "src/app/app.component.ts",
+        "hash": "14255712435515673760"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_res/debug/drawable-port-mdpi-v4/splash.png",
+        "hash": "512985810174291431"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sw.json",
+        "hash": "12057423290341436680"
+      },
+      {
+        "file": "android/app/build/intermediates/assets/debug/public/352.749efa53d2fd6e0e.js",
+        "hash": "5849654663490996778"
+      },
+      {
+        "file": "android/app/src/main/res/xml/file_paths.xml",
+        "hash": "14753087816109454837"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/FEy2i0FxuTf+5nDlEopITIiZ23o=",
+        "hash": "11671974618664972380"
+      },
+      {
+        "file": "src/environments/environment.prod.ts",
+        "hash": "5406836414239361753"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/YspqMAX0pDkwkyB_4bwKNlrI8l0=",
+        "hash": "12785583748312276211"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_res/debug/mipmap-mdpi-v4/ic_launcher_round.png",
+        "hash": "9039760806353812177"
+      },
+      {
+        "file": "android/app/build/intermediates/assets/debug/public/runtime.17c3cef5d7a85d1b.js",
+        "hash": "15791317568539597051"
+      },
+      {
+        "file": "android/app/build/intermediates/assets/debug/public/polyfills.a8ae9b1c4522b100.js",
+        "hash": "6906429018809378215"
+      },
+      {
+        "file": "android/app/build/intermediates/dex/debug/mergeLibDexDebug/5/classes.dex",
+        "hash": "1909601778376783207"
+      },
+      {
+        "file": "android/app/src/main/res/drawable-land-hdpi/splash.png",
+        "hash": "12618218220193540786"
+      },
+      {
+        "file": "src/app/tab2/tab2.page.scss",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-zu/values-zu.xml",
+        "hash": "13858402112456101187"
+      },
+      {
+        "file": "android/app/src/main/assets/capacitor.plugins.json",
+        "hash": "12111528418946454353"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/mGQWUoqfwuhhp_1vH4lnTe2JqeE=",
+        "hash": "18108715860067187242"
+      },
+      {
+        "file": "android/app/build/intermediates/runtime_symbol_list/debug/R.txt",
+        "hash": "12320799907209840352"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+        "hash": "3010542927056984106"
+      },
+      {
+        "file": "android/app/build/intermediates/compressed_assets/debug/out/assets/public/348.ab1892c9bb7a81ff.js.jar",
+        "hash": "1126943142209329913"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "hash": "7266964460175787417"
+      },
+      {
+        "file": "android/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml",
+        "hash": "16602625396055746895"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/currentProject/jar_64ed280556585bcb571da8f16fafebc50bfee4369a82745009282c51a5a1c0b6_bucket_4/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/packaged_res/debug/xml/config.xml",
+        "hash": "474798728445634719"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-te_values-te.arsc.flat",
+        "hash": "6286899324093883665"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ur.json",
+        "hash": "1386336916266732485"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/otherProjects/jar_a44dcc49e54c49c2c0969bf843f795e66ed098beb20e96df907549d8700493b2_bucket_0/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-en-rAU.json",
+        "hash": "6794067253025730782"
+      },
+      {
+        "file": "android/app/build/intermediates/javac/debug/classes/io/ionic/starter/MainActivity.class",
+        "hash": "753692311313761028"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-it/values-it.xml",
+        "hash": "9553893047915166069"
+      },
+      {
+        "file": "android/app/build/intermediates/compressed_assets/debug/out/assets/public/cordova_plugins.js.jar",
+        "hash": "2335144883750293793"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-eu.json",
+        "hash": "7442347020455789646"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ne.json",
+        "hash": "6402499777771486054"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/otherProjects/jar_b23d7fe64b14cec9a422ac7336f7af4d8007ea630dac36826ee0209e999c9627_bucket_4/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/dex/debug/mergeLibDexDebug/7/classes.dex",
+        "hash": "14729219021030309999"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "hash": "9160699035743454794"
+      },
+      {
+        "file": "android/app/build/intermediates/desugar_graph/debug/out/otherProjects/jar_4e836ac1da2bfce1a811facabfe018a12e19f0dd28d7e781a0167805d40271f2_bucket_1/graph.bin",
+        "hash": "15595562522157756655"
+      },
+      {
+        "file": "android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sq/values-sq.xml",
+        "hash": "15841111599712498831"
+      },
+      {
+        "file": "android/app/build/intermediates/merged_res/debug/values-es-rUS_values-es-rUS.arsc.flat",
+        "hash": "14201677417852847718"
       }
-    ]
+    ],
+    "projectFileMap": {}
   }
 }
